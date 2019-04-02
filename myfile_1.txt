@@ -1,1 +1,2 @@
+Add a new line
 The first file for testing
